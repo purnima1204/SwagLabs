@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="MyTestNG" parallel="tests">
+	  
+	  <parameter name="os" value="Windows"></parameter>
+	  <parameter name="browser" value="chrome"></parameter>  
+    <classes>
+      <!-- <class name="testCases.TC_001_Login"/>
+      <class name="testCases.TC_002_DataProviderTest"/> -->
+      <class name="testCases.TC_003_Login_DDT"></class>
+      <class name="testCases.TC_005_Scrolling"></class>
+      <class name="testCases.TC_006_ScrollPage_ClickOnProduct"></class>
+      <class name="testCases.TC_007_Display_Products_On_Page"></class>
+      <class name="testCases.TC_008_Display_Products_Names_Prices"></class>
+      <!-- <class name="testCases.TC_009_Verify_itemsCount_PricesCount"></class> -->
+    <!--   <class name="testCases.TC_021_End_TO_End_"></class> -->
+    </classes>
+  </test> <!-- MyTestNG -->
+  
+
+  
+  
+  
+</suite> <!-- Suite -->

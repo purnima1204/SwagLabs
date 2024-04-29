@@ -1,0 +1,40 @@
+13:06:44.126 [main] INFO  testCases.TC_012_StaticDropdown_Name_Z_A - ******Successful Login************ 
+13:13:03.853 [main] INFO  testCases.TC_012_StaticDropdown_Name_Z_A - Entering valid userName & Password
+13:13:03.874 [main] INFO  testCases.TC_012_StaticDropdown_Name_Z_A - ******Successful Login************ 
+13:14:30.880 [main] INFO  testCases.TC_012_StaticDropdown_Name_Z_A - Entering valid userName & Password
+13:14:30.904 [main] INFO  testCases.TC_012_StaticDropdown_Name_Z_A - ******Successful Login************ 
+13:15:32.275 [main] INFO  testCases.TC_012_StaticDropdown_Name_Z_A - Entering valid userName & Password
+13:15:32.300 [main] INFO  testCases.TC_012_StaticDropdown_Name_Z_A - ******Successful Login************ 
+13:18:45.316 [main] INFO  testCases.TC_012_StaticDropdown_Name_Z_A - Entering valid userName & Password
+13:18:45.338 [main] INFO  testCases.TC_012_StaticDropdown_Name_Z_A - ******Successful Login************ 
+13:19:47.792 [main] INFO  testCases.TC_012_StaticDropdown_Name_Z_A - ******Successful Login************ 
+13:20:32.695 [main] INFO  testCases.TC_012_StaticDropdown_Name_Z_A - Entering valid userName & Password
+13:20:32.714 [main] INFO  testCases.TC_012_StaticDropdown_Name_Z_A - ******Successful Login************ 
+13:21:26.221 [main] INFO  testCases.TC_012_StaticDropdown_Name_Z_A - Entering valid userName & Password
+13:21:26.245 [main] INFO  testCases.TC_012_StaticDropdown_Name_Z_A - ******Successful Login************ 
+13:22:29.709 [main] INFO  testCases.TC_012_StaticDropdown_Name_Z_A - Entering valid userName & Password
+13:22:29.729 [main] INFO  testCases.TC_012_StaticDropdown_Name_Z_A - ******Successful Login************ 
+13:23:22.220 [main] INFO  testCases.TC_012_StaticDropdown_Name_Z_A - Entering valid userName & Password
+13:23:22.246 [main] INFO  testCases.TC_012_StaticDropdown_Name_Z_A - ******Successful Login************ 
+13:25:12.262 [main] INFO  testCases.TC_012_StaticDropdown_Name_Z_A - Entering valid userName & Password
+13:25:12.279 [main] INFO  testCases.TC_012_StaticDropdown_Name_Z_A - ******Successful Login************ 
+13:26:56.866 [main] INFO  testCases.TC_013_StaticDropdown_Name_A_Z - Entering valid userName & Password
+13:26:56.885 [main] INFO  testCases.TC_013_StaticDropdown_Name_A_Z - ******Successful Login************ 
+13:34:38.898 [main] INFO  testCases.TC_014_Price_Low_To_High - Entering valid userName & Password
+13:34:38.930 [main] INFO  testCases.TC_014_Price_Low_To_High - ******Successful Login************ 
+13:44:35.179 [main] INFO  testCases.TC_014_Price_Low_To_High - Entering valid userName & Password
+13:44:35.196 [main] INFO  testCases.TC_014_Price_Low_To_High - ******Successful Login************ 
+13:45:55.144 [main] INFO  testCases.TC_014_Price_Low_To_High - Entering valid userName & Password
+13:45:55.163 [main] INFO  testCases.TC_014_Price_Low_To_High - ******Successful Login************ 
+13:47:09.050 [main] INFO  testCases.TC_014_Price_Low_To_High - Entering valid userName & Password
+13:47:09.073 [main] INFO  testCases.TC_014_Price_Low_To_High - ******Successful Login************ 
+13:49:27.382 [main] INFO  testCases.TC_014_Price_Low_To_High - Entering valid userName & Password
+13:49:27.398 [main] INFO  testCases.TC_014_Price_Low_To_High - ******Successful Login************ 
+13:53:03.995 [main] INFO  testCases.TC_014_Price_Low_To_High - Entering valid userName & Password
+13:53:04.011 [main] INFO  testCases.TC_014_Price_Low_To_High - ******Successful Login************ 
+13:54:35.293 [main] INFO  testCases.TC_014_Price_Low_To_High - Entering valid userName & Password
+13:54:35.315 [main] INFO  testCases.TC_014_Price_Low_To_High - ******Successful Login************ 
+13:56:37.748 [main] INFO  testCases.TC_014_Price_Low_To_High - Entering valid userName & Password
+13:56:37.766 [main] INFO  testCases.TC_014_Price_Low_To_High - ******Successful Login************ 
+14:09:59.308 [main] INFO  testCases.TC_015_Price_High_To_Low - Entering valid userName & Password
+14:09:59.335 [main] INFO  testCases.TC_015_Price_High_To_Low - ******Successful Login************ 

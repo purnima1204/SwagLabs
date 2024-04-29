@@ -1,0 +1,54 @@
+17:03:16.040 [main] INFO  testCases.TC_001_Login - ******Successful Login************ 
+17:25:49.804 [main] INFO  testCases.TC_002_DataProviderTest - **********DataProvider Method Successfully Executed***********
+17:34:19.049 [main] INFO  testCases.TC_001_Login - ******Successful Login************ 
+17:34:45.953 [main] INFO  testCases.TC_002_DataProviderTest - **********DataProvider Method Successfully Executed***********
+17:55:00.049 [main] INFO  testCases.TC_001_Login - ******Successful Login************ 
+17:55:05.126 [main] INFO  testCases.TC_002_DataProviderTest - **********DataProvider Method Successfully Executed***********
+17:55:21.249 [main] INFO  testCases.TC_001_Login - ******Successful Login************ 
+17:57:05.374 [main] INFO  testCases.TC_001_Login - ******Successful Login************ 
+17:57:12.465 [main] INFO  testCases.TC_002_DataProviderTest - **********DataProvider Method Successfully Executed***********
+17:58:45.045 [main] INFO  testCases.TC_002_DataProviderTest - **********DataProvider Method Successfully Executed***********
+17:59:00.752 [main] INFO  testCases.TC_001_Login - ******Successful Login************ 
+15:46:20.222 [main] INFO  testCases.TC_003_Login_DDT -  starting Tc_003 LoginDDT
+15:46:30.756 [main] INFO  testCases.TC_003_Login_DDT -  starting Tc_003 LoginDDT
+15:46:40.821 [main] INFO  testCases.TC_003_Login_DDT -  starting Tc_003 LoginDDT
+15:47:30.112 [main] INFO  testCases.TC_003_Login_DDT -  starting Tc_003 LoginDDT
+15:47:40.668 [main] INFO  testCases.TC_003_Login_DDT -  starting Tc_003 LoginDDT
+15:47:46.680 [main] INFO  testCases.TC_003_Login_DDT -  starting Tc_003 LoginDDT
+15:47:57.488 [main] INFO  testCases.TC_003_Login_DDT -  starting Tc_003 LoginDDT
+15:48:07.987 [main] INFO  testCases.TC_003_Login_DDT -  starting Tc_003 LoginDDT
+15:48:18.018 [main] INFO  testCases.TC_003_Login_DDT -  starting Tc_003 LoginDDT
+15:51:24.802 [main] INFO  testCases.TC_003_Login_DDT -  starting Tc_003 LoginDDT
+15:51:35.235 [main] INFO  testCases.TC_003_Login_DDT -  starting Tc_003 LoginDDT
+15:51:45.307 [main] INFO  testCases.TC_003_Login_DDT -  starting Tc_003 LoginDDT
+15:55:05.896 [main] INFO  testCases.TC_003_Login_DDT -  starting Tc_003 LoginDDT
+15:55:16.629 [main] INFO  testCases.TC_003_Login_DDT -  starting Tc_003 LoginDDT
+15:55:27.146 [main] INFO  testCases.TC_003_Login_DDT -  starting Tc_003 LoginDDT
+15:57:14.253 [main] INFO  testCases.TC_003_Login_DDT -  starting Tc_003 LoginDDT
+15:57:34.951 [main] INFO  testCases.TC_003_Login_DDT -  starting Tc_003 LoginDDT
+15:57:55.443 [main] INFO  testCases.TC_003_Login_DDT -  starting Tc_003 LoginDDT
+15:58:44.546 [main] INFO  testCases.TC_003_Login_DDT -  starting Tc_003 LoginDDT
+15:58:55.277 [main] INFO  testCases.TC_003_Login_DDT -  starting Tc_003 LoginDDT
+15:59:05.809 [main] INFO  testCases.TC_003_Login_DDT -  starting Tc_003 LoginDDT
+16:01:38.811 [main] INFO  testCases.TC_003_Login_DDT -  starting Tc_003 LoginDDT
+16:01:49.599 [main] INFO  testCases.TC_003_Login_DDT -  starting Tc_003 LoginDDT
+16:02:00.141 [main] INFO  testCases.TC_003_Login_DDT -  starting Tc_003 LoginDDT
+07:34:54.245 [main] INFO  testCases.TC_005_Scrolling - Scrolled Successfully
+11:26:48.093 [main] INFO  testCases.TC_011_Remove_Product_FromCart - Entering valid userName & Password
+11:26:48.112 [main] INFO  testCases.TC_011_Remove_Product_FromCart - ******Successful Login************ 
+11:36:02.660 [main] INFO  testCases.TC_011_Remove_Product_FromCart - Entering valid userName & Password
+11:36:02.681 [main] INFO  testCases.TC_011_Remove_Product_FromCart - ******Successful Login************ 
+11:36:45.102 [main] INFO  testCases.TC_011_Remove_Product_FromCart - Entering valid userName & Password
+11:36:45.128 [main] INFO  testCases.TC_011_Remove_Product_FromCart - ******Successful Login************ 
+11:38:57.375 [main] INFO  testCases.TC_011_Remove_Product_FromCart - Entering valid userName & Password
+11:38:57.394 [main] INFO  testCases.TC_011_Remove_Product_FromCart - ******Successful Login************ 
+11:45:19.651 [main] INFO  testCases.TC_011_Remove_Product_FromCart - Entering valid userName & Password
+11:45:19.677 [main] INFO  testCases.TC_011_Remove_Product_FromCart - ******Successful Login************ 
+12:19:23.039 [main] INFO  testCases.TC_011_Remove_Product_FromCart - Entering valid userName & Password
+12:21:15.065 [main] INFO  testCases.TC_011_Remove_Product_FromCart - Entering valid userName & Password
+12:21:15.085 [main] INFO  testCases.TC_011_Remove_Product_FromCart - ******Successful Login************ 
+12:25:48.379 [main] INFO  testCases.TC_011_Remove_Product_FromCart - Entering valid userName & Password
+12:25:48.401 [main] INFO  testCases.TC_011_Remove_Product_FromCart - ******Successful Login************ 
+13:05:00.819 [main] INFO  testCases.TC_012_StaticDropdown_Name_Z_A - Entering valid userName & Password
+13:05:00.875 [main] INFO  testCases.TC_012_StaticDropdown_Name_Z_A - ******Successful Login************ 
+13:06:44.106 [main] INFO  testCases.TC_012_StaticDropdown_Name_Z_A - Entering valid userName & Password
